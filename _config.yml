@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "THE ANUYOG INSTITUTE"
-description              : "An amazing website."
+description              : "An amazing websit."
 URL                      : "https://jprags2023.github.io/" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jprags2023/jprags2023.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
