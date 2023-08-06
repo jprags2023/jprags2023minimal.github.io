@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "THE ANUYOG INSTITUTE"
 description              : "An amazing website."
-URL                      : "https://jprags2023.github.io/" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : //jprags2023.github.io #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jprags2023/jprags2023.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/88x88.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
